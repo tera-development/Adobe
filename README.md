@@ -1,2 +1,2 @@
-# Shadowing
-Config files for my GitHub profile.
+# Adobe
+Adobe関連のソースコードを管理する
