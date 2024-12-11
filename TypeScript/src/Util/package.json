@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "parcel watch --no-hmr --no-source-maps -d ./js ./ts/*.ts"
+  },
+  "devDependencies": {
+    "extendscript-es5-shim-ts": "~0.0.1",
+    "parcel-bundler": "^1.12.5",
+    "types-for-adobe": "^7.0.12",
+    "typescript": "^5.0.4"
+  }
+}
